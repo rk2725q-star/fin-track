@@ -1,0 +1,5 @@
+{
+  "name": "FinTrack Pro",
+  "description": "A professional, rule-based finance management system for tracking loans, payments, and expenses with automated calculations.",
+  "requestFramePermissions": ["microphone"]
+}
